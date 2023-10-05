@@ -15,8 +15,17 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.11",
+    "@mui/x-date-pickers": "^6.16.0",
+    "@wojtekmaj/react-daterange-picker": "^5.4.3",
+    "date-fns": "^2.30.0",
+    "dayjs": "^1.11.10",
     "gatsby": "^5.12.4",
     "react": "^18.2.0",
+    "react-calendar": "^4.6.0",
+    "react-daterange-picker": "^2.0.1",
     "react-dom": "^18.2.0"
   }
 }
